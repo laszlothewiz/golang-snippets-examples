@@ -1,4 +1,4 @@
-golang-snipets-examples
+Golang Snippets & Examples
 =======================
 
 Collection of snippets and examples for the Go language.
